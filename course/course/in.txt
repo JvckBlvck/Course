@@ -1,4 +1,4 @@
-1s o 3
+s o 3
 s p 3
 p o 4
 o q 3
