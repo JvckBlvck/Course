@@ -4,7 +4,7 @@ using namespace std;
 
 bool equal_graphs(graph graph1, graph graph2)
 {
-	if (graph1.size != graph2.size)
+	/*if (graph1.size != graph2.size)
 		return false;
 	graph::list* cur11 = graph1.head;
 	graph::list* cur12 = graph2.head;
@@ -29,7 +29,7 @@ bool equal_graphs(graph graph1, graph graph2)
 		}
 		cur11 = cur11->next;
 		cur12 = cur12->next;
-	}
+	}*/
 	return true;
 }
 

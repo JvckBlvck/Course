@@ -6,7 +6,7 @@ using namespace std;
 
 class graph
 {
-public:
+private:
 	class list
 	{
 	public:
@@ -34,6 +34,7 @@ public:
 	list* head;
 	list* tail;
 	size_t size;
+public:
 	graph();
 	~graph();
 	void add(string vertexstart, string vertexfinish, size_t bandwidth);
