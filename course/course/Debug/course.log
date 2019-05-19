@@ -1,2 +1,8 @@
 ﻿  course.cpp
+  equal.cpp
+  graph.cpp
+C:\Users\senny\source\repos\course\course\graph.cpp(351): warning C4018: <: несоответствие типов со знаком и без знака
+  queue.cpp
+  read.cpp
+  Создание кода...
   course.vcxproj -> C:\Users\senny\source\repos\course\Debug\course.exe

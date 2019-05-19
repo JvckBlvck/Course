@@ -152,11 +152,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="course.cpp" />
+    <ClCompile Include="equal.cpp" />
     <ClCompile Include="graph.cpp" />
     <ClCompile Include="queue.cpp" />
     <ClCompile Include="read.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="equal.h" />
     <ClInclude Include="graph.h" />
     <ClInclude Include="queue.h" />
     <ClInclude Include="read.h" />
